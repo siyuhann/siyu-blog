@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "Siyu's blog"
 image: profile.jpg
 about:
   template: jolla
@@ -13,7 +13,6 @@ about:
     - icon: github
       text: Github
       href: https://github.com
-
 ---
 
-About this blog
+Hi, i am learning to use quarto to prepare documents. here is my posts about the learning process.
